@@ -35,8 +35,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)\
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=awslambda)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Rest API]
+![K8S](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=Kubernetes$logoColor=326CE5)
 
 ### Reach Me At...
 <p>
