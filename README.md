@@ -4,9 +4,9 @@
 
 💡 I'm fascinated with artificial intelligence and the application of machine learning, and have been starting to think about how robotics could be integrated with ML.
 
-🎓 Currently in my undergraduate studying Computer Science, Artificial Intelligence and Applied Math at Illinois Institute of Technology, but transitioning to graduate school soon.
+🎓 Currently in my graduate studying Computer Science with a focus on Artificial Intelligence at the University of California - San Diego.
 
-✈️ For the Spring 2024 semester I am expanding my studies abroad to the University of Sheffield in the UK.
+✈️ I recently expanded my horizons in world culture and education during the Spring 2024 semester at the University of Sheffield in the UK.
 
 📈 I spend a lot of my free time expanding my skillset, from learning about world history to working out to improving my flickshots.
 
@@ -31,12 +31,12 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=cplusplus&logoColor=00599C)
-![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=csharp&logoColor=512BD4)
-![Swift](https://img.shields.io/badge/-Swift-333333?style=flat&logo=swift)\
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)\
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=awslambda)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Rest API]
 
 ### Reach Me At...
 <p>
